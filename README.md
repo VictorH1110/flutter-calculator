@@ -9,14 +9,12 @@ This project is a starting point for a Flutter application.
 ### Some Screenshots
 
 <p float="left">
-  <img src="app_images/calculator_img1.jpeg" height="300em"/>
-  <img src="app_images/calculator_img2.jpeg" height="300em"/>
-  <img src="app_images/calculator_img3.jpeg" height="300em"/>
-  <img src="app_images/calculator_img4.jpeg" height="300em"/>
-  <img src="app_images/calculator_img5.jpeg" height="300em"/>
-  
- 
+  <img src="app_images/calculator_img1.jpeg" height="400em"/>
+  <img src="app_images/calculator_img2.jpeg" height="400em"/>
+  <img src="app_images/calculator_img3.jpeg" height="400em"/>
 </p>
+  <img src="app_images/calculator_img4.jpeg" height="400em"/>
+  <img src="app_images/calculator_img5.jpeg" height="400em"/>
 
 A few resources to get you started if this is your first Flutter project:
 
