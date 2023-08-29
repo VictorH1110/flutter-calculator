@@ -10,8 +10,10 @@ This project is a starting point for a Flutter application.
 
 <p float="left">
   <img src="app_images/calculator_img1.jpeg"  />
-  <img src="https://i.imgur.com/vNPjDMs.png"  />
-  <img src="https://i.imgur.com/xbV5OAQ.png" />
+  <img src="app_images/calculator_img2.jpeg"  />
+  <img src="app_images/calculator_img3.jpeg"  />
+  <img src="app_images/calculator_img4.jpeg"  />
+  <img src="app_images/calculator_img5.jpeg"  />
   
  
 </p>
