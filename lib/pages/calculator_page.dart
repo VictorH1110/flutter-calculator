@@ -40,8 +40,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
                   .toString()
                   .replaceAll('.', ',');
             } catch (e) {
-              input = '';
-              output = '';
+              output = 'Invalid Expression!';
             }
           } else {
             input = input + buttonText;
