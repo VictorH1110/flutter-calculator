@@ -1,6 +1,6 @@
 # flutter-calculator
 
-A simple calculator app made in flutter 
+A simple calculator app with flutter 
 
 ### Some Screenshots
 
